@@ -1,5 +1,9 @@
 # todolist
 
+## Object: To make a TODO LIST (Add, Check & Delete Operations)
+
+## HTML, CSS, MYsQL, Php.
+
 #### Internship task
 
 <p>In this task I was first asked to make a TODO List. It was very new to me.</p><br>
